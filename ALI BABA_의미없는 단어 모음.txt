@@ -1,0 +1,4 @@
+meaningless = ['.', ',', '!', '?', '“', "'", 's', 'the', 'he', 'and', 'to', 'a', 'of', 
+               'was', 'in', 'had', 'for', 'it', 'that', 'but', 'as', 'with', 'at', 'i', 
+               'into', 'be', 'this', 'me', 'from', 'then', 'him', 'his', 'her', 'she', 
+               'they', 'them', 'you']
